@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="template">
+    <output-path>$USER_HOME$/Desktop/Server/plugins</output-path>
+    <root id="archive" name="AI.jar">
+      <element id="module-output" name="AI" />
+    </root>
+  </artifact>
+</component>

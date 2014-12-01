@@ -1,0 +1,8 @@
+name: AI
+main: me.yarocks.ai.Main
+version: 1.0.0
+author: yarocks
+
+commands:
+   spawnmob:
+      description: kew;
